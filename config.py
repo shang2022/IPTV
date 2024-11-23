@@ -8,13 +8,13 @@ source_urls = [
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
-    "https://4gtv.mytvsuper.xyz/myiptv.m3u",
+    "https://live.zhoujie218.top/tv/iptv4.txt",
+    "https://www.mytvsuper.xyz/m3u/Live.m3u",
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
-    "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
-    "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
+    "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
     "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
@@ -40,7 +40,14 @@ url_blacklist = [
     "111.230.30.193",
     "148.135.93.213:81",
     "live.goodiptv.club",
-    "iptv.luas.edu.cn"
+    "iptv.luas.edu.cn",
+    "[2409:8087:2001:20:2800:0:df6e:eb22]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb23]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/",
+    "[2409:8087:2001:20:2800:0:df6e:eb1d]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb24]",
+    "2409:8087:2001:20:2800:0:df6e:eb25]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb27]"
 ]
 
 announcements = [
