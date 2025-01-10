@@ -9,7 +9,7 @@
 - 国内M3U [每三日更新](http://175.178.251.183:6689/live.m3u)
 - 国内TXT [每三日更新](http://175.178.251.183:6689/live.txt)
 - 仓库文件加速 [线路1](https://gh.con.sh/https://raw.githubusercontent.com/shang2022/IPTV/main/live.m3u)
-- 仓库文件加速 [线路2](https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u)
+- 仓库文件加速 [线路2](https://cdn.jsdelivr.net/gh/shang2022/IPTV@latest/live.m3u)
 
 #
 ![image](/image/Screenshot_2024-07-24-21-20-39-458_com.github.tvbox.osc.tk.jpg)
